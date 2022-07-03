@@ -30,7 +30,7 @@ public class AssertionTest {
     @AfterTest
         public void AfterTest() {
 
-                    driver.quit();
+        driver.quit();
 
 
     }
